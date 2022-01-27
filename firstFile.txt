@@ -1,4 +1,4 @@
 Matt is adding nifty new content!
 This is the initial contents
-userB changed here. of the first file that
+userB changed here. of the first file that UserA changes some stuff here too
 comprises the project.new stuff
